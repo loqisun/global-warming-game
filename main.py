@@ -1,4 +1,4 @@
-key = '6918758649:AAGiAXmu3QTj5F-h1t1ID5pxSp7v1MHQirI'
+key = 'your token'
 
 import asyncio
 import logging
